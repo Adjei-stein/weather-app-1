@@ -1,0 +1,94 @@
+.rowie-1{
+    height: 45%;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: aliceblue;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.first-row {
+    padding-top: 20%;
+}
+
+
+.cardiot{
+    height: 100%;
+    width: 15%;
+    background-color: #1f1f1f;
+}
+
+.cardinal{
+    border: 0;
+    height: 95%;
+    color: aliceblue;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.dee {
+    height: 40%;
+}
+
+.first-row-two {
+    height: 15%;
+    /* border-bottom: 1px black solid; */
+    margin: 10% 0 0 0;
+}
+
+.staticcountry {
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.second-row-two {
+    height: 50%;
+}
+
+.third-row-two {
+    height: 15%;
+    margin: 10% 0 0 0;
+}
+
+.cardiotpng {
+    height: 60%;
+    width: 40%;
+}
+
+
+/* .bodys {
+    background-color: #1f1f1f;
+} */
+
+.cardinality {
+    margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+    padding: 0;
+    height: 95%;
+}
+
+.colfourheight {
+    height: 100%;
+}
+
+.bodinize {
+    margin: 5%;
+    height: 40%;
+}
+
+.cardinalityhead {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+
+.MeWeatherPng {
+    height: 40%;
+    width: 40%;
+}
+
+.fonty-two-one {
+    font-size: 550%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
